@@ -1,0 +1,34 @@
+{
+  "tabsets": [
+    {
+      "id": "03411601-24a8-4f75-958c-54c05ee0d73d",
+      "name": "aaa",
+      "created": 1760695145064,
+      "updated": 1760695172055,
+      "tabs": [],
+      "folders": [],
+      "columns": [],
+      "spaces": [],
+      "view": "grid",
+      "details": "DEFAULT",
+      "sorting": "custom",
+      "status": "DEFAULT",
+      "type": "DEFAULT",
+      "sharing": {
+        "sharing": "UNSHARED"
+      },
+      "window": "current",
+      "origin": "",
+      "size": 434,
+      "loaded": 0,
+      "lastChangeBy": "",
+      "augmentedData": {
+        "sharedAt": 0,
+        "readonly": true
+      },
+      "monitoredTabs": [],
+      "newTabSource": false
+    }
+  ],
+  "spaces": []
+}
