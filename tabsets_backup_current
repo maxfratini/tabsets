@@ -1291,7 +1291,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 6306,
+      "size": 6267,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
@@ -1445,13 +1445,77 @@
       "id": "b0dcb86f-ba56-40e9-bd0d-3d2d55098b2c",
       "name": "Cogita",
       "created": 1770112564479,
-      "updated": 1774864689014,
+      "updated": 1774894280825,
       "tabs": [
+        {
+          "created": 1774868228685,
+          "updated": 1774868228685,
+          "lastActive": 1774868228685,
+          "activatedCount": 1,
+          "chromeTabId": 1576842926,
+          "favIconUrl": "https://nextcloud.cogita.tech/apps/theming/favicon/settings?v=908dd8f4",
+          "url": "https://nextcloud.cogita.tech/",
+          "title": "Overview - Administration settings - Nextcloud",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "name": "Nextcloud Cogita",
+          "description": "",
+          "longDescription": "",
+          "keywords": "",
+          "tags": [
+            "nextcloud.cogita.tech"
+          ],
+          "image": "",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "e528fad0-1e85-5361-8256-4491835efe48",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [
+            {
+              "id": "d577583a-f3cc-4946-adc5-ed1e319d8d94",
+              "type": "OPEN_GRAPH",
+              "title": "Open Graph",
+              "data": [],
+              "status": "NEW"
+            },
+            {
+              "id": "08051d5e-8584-4351-adba-7e642861268e",
+              "type": "META_DATA",
+              "title": "Meta Data",
+              "data": [],
+              "status": "NEW"
+            }
+          ],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 0,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "9a92cff5-02e2-4178-8c79-60f2006120ea"
+        },
         {
           "created": 1773137492387,
           "updated": 1773137492387,
-          "lastActive": 1774864689014,
-          "activatedCount": 2,
+          "lastActive": 1774894209638,
+          "activatedCount": 4,
           "chromeTabId": 1576842921,
           "favIconUrl": "https://portainer.cogita.tech/d35773788f0de379e3d2.png",
           "url": "https://portainer.cogita.tech/#!/auth",
@@ -1509,7 +1573,7 @@
           "quickaccess": "",
           "log": [],
           "lastChangeBy": "",
-          "readingTime": 0,
+          "readingTime": 60000,
           "useInIframe": true,
           "details": "DEFAULT",
           "id": "8da1f118-a427-4d82-a56c-e28d2d9f202f"
@@ -1517,9 +1581,9 @@
         {
           "created": 1770112569490,
           "updated": 1770112569490,
-          "lastActive": 1770113150583,
-          "activatedCount": 2,
-          "chromeTabId": 1576836299,
+          "lastActive": 1774894152742,
+          "activatedCount": 4,
+          "chromeTabId": 1576842975,
           "favIconUrl": "https://maestro.cogita.tech/favicon.ico",
           "url": "https://maestro.cogita.tech/#History?sub=history",
           "title": "History | Cronicle",
@@ -1552,7 +1616,31 @@
           "snippets": [],
           "preview": "FAVICON",
           "coordinates": [],
-          "tabReferences": [],
+          "tabReferences": [
+            {
+              "id": "d328dad6-e2e0-4e6e-a747-3890c33915fa",
+              "type": "OPEN_GRAPH",
+              "title": "Open Graph",
+              "data": [],
+              "status": "NEW"
+            },
+            {
+              "id": "b39e85f0-af07-4e43-beea-8494755938b2",
+              "type": "META_DATA",
+              "title": "Meta Data",
+              "data": [
+                {
+                  "name": "description",
+                  "content": "A simple distributed task scheduler and runner."
+                },
+                {
+                  "name": "author",
+                  "content": "Joseph Huckaby"
+                }
+              ],
+              "status": "NEW"
+            }
+          ],
           "quickaccess": "",
           "log": [],
           "lastChangeBy": "",
@@ -1560,6 +1648,125 @@
           "useInIframe": true,
           "details": "DEFAULT",
           "id": "54fafa8d-3ebf-480b-91fa-657eeea04c64"
+        },
+        {
+          "created": 1774868109061,
+          "updated": 1774868109061,
+          "lastActive": 1774868109061,
+          "activatedCount": 1,
+          "chromeTabId": 1576842927,
+          "favIconUrl": "https://www.register.it/favicon.ico",
+          "url": "https://controlpanel.register.it/index.html",
+          "title": "Pannello di controllo di Register.it",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "description": "Descrizione",
+          "keywords": "",
+          "tags": [
+            "controlpanel.register.it"
+          ],
+          "image": "",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "063b7346-9878-5178-a6f2-ec2b754fd292",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [
+            {
+              "id": "f6eb3cce-d8d0-4d3a-83a5-de8d143b9b5e",
+              "type": "OPEN_GRAPH",
+              "title": "Open Graph",
+              "data": [],
+              "status": "NEW"
+            },
+            {
+              "id": "283d4e31-f05f-4af7-b771-482dc339b902",
+              "type": "META_DATA",
+              "title": "Meta Data",
+              "data": [
+                {
+                  "name": "copyright",
+                  "content": "Register.it"
+                },
+                {
+                  "name": "description",
+                  "content": "Descrizione"
+                }
+              ],
+              "status": "NEW"
+            },
+            {
+              "id": "34e174c2-b580-4e5b-8e0f-1a174d6f0f83",
+              "type": "LINKING_DATA",
+              "title": "Linking Data",
+              "data": {
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                "name": "Register.it",
+                "legalName": "Register S.p.A.",
+                "url": "https://www.register.it",
+                "logo": "https://www.register.it/_img/header/register.it_logo.png",
+                "telephone": "+39 055 200 211",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": " Viale della Giovine Italia, 17",
+                  "addressLocality": "Firenze",
+                  "addressRegion": "FI",
+                  "postalCode": "50122",
+                  "addressCountry": "IT"
+                },
+                "sameAs": [
+                  "https://www.facebook.com/Register.it/",
+                  "https://www.linkedin.com/company/register.it",
+                  "https://www.youtube.com/user/RegisterDada",
+                  "https://www.instagram.com/register.it"
+                ],
+                "parentOrganization": {
+                  "@type": "Organization",
+                  "name": "team.blue",
+                  "url": "https://team.blue"
+                },
+                "knowsAbout": [
+                  "Web Hosting",
+                  "Registrazione Domini",
+                  "Servizi Email",
+                  "Server Dedicati",
+                  "Certificati SSL",
+                  "PEC",
+                  "SPID",
+                  "Soluzioni di compliance per siti web",
+                  "VPS",
+                  "Site Builder",
+                  "Cloud backup",
+                  "Soluzioni per E-commerce"
+                ]
+              },
+              "status": "NEW"
+            }
+          ],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 0,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "15da93ec-0cea-4c82-9a74-3a7f51a29585"
         }
       ],
       "folders": [],
@@ -1575,23 +1782,24 @@
       },
       "window": "current",
       "origin": "",
-      "size": 2646,
+      "size": 6007,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
         "sharedAt": 0,
         "readonly": true
       },
-      "lastChange": {
-        "date": 1774864689014,
-        "changedBy": "",
-        "event": "tabset-edited",
-        "element": "tabset",
-        "change": "edited",
-        "elementId": "b0dcb86f-ba56-40e9-bd0d-3d2d55098b2c"
-      },
       "monitoredTabs": [],
-      "newTabSource": false
+      "newTabSource": false,
+      "lastChange": {
+        "date": 1774894280825,
+        "changedBy": "",
+        "event": "tab-edited",
+        "element": "tab",
+        "change": "edited",
+        "elementId": "8da1f118-a427-4d82-a56c-e28d2d9f202f",
+        "tabsetId": "https://portainer.cogita.tech/#!/auth"
+      }
     },
     {
       "id": "dc8ff665-58b6-4542-b3db-119532fcc2d4",
