@@ -993,13 +993,13 @@
       "id": "3ca4b562-feeb-4c1b-bd50-04422c974631",
       "name": "Frappe",
       "created": 1763996238852,
-      "updated": 1774800631230,
+      "updated": 1774877247580,
       "tabs": [
         {
           "created": 1774800631225,
           "updated": 1774800631225,
-          "lastActive": 1774800631225,
-          "activatedCount": 1,
+          "lastActive": 1774877247580,
+          "activatedCount": 4,
           "chromeTabId": 1576842865,
           "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
           "url": "https://github.com/castlecraft/custom_containers/wiki/Quickstart-Frappe-Development",
@@ -1037,7 +1037,7 @@
           "quickaccess": "",
           "log": [],
           "lastChangeBy": "",
-          "readingTime": 0,
+          "readingTime": 3413,
           "useInIframe": true,
           "details": "DEFAULT",
           "id": "d274c8ba-9c48-4644-98b0-46a07e9a9db0"
@@ -1299,13 +1299,12 @@
         "readonly": true
       },
       "lastChange": {
-        "date": 1774800631230,
+        "date": 1774877247580,
         "changedBy": "",
-        "event": "tab-added",
-        "element": "tab",
-        "change": "added",
-        "elementId": "d274c8ba-9c48-4644-98b0-46a07e9a9db0",
-        "tabsetId": "3ca4b562-feeb-4c1b-bd50-04422c974631"
+        "event": "tabset-edited",
+        "element": "tabset",
+        "change": "edited",
+        "elementId": "3ca4b562-feeb-4c1b-bd50-04422c974631"
       },
       "monitoredTabs": [],
       "newTabSource": false
