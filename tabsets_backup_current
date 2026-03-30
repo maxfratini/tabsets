@@ -1446,14 +1446,14 @@
       "id": "b0dcb86f-ba56-40e9-bd0d-3d2d55098b2c",
       "name": "Cogita",
       "created": 1770112564479,
-      "updated": 1773137492393,
+      "updated": 1774864689014,
       "tabs": [
         {
           "created": 1773137492387,
           "updated": 1773137492387,
-          "lastActive": 1773137492387,
-          "activatedCount": 1,
-          "chromeTabId": 1576840753,
+          "lastActive": 1774864689014,
+          "activatedCount": 2,
+          "chromeTabId": 1576842921,
           "favIconUrl": "https://portainer.cogita.tech/d35773788f0de379e3d2.png",
           "url": "https://portainer.cogita.tech/#!/auth",
           "title": "Portainer",
@@ -1486,7 +1486,27 @@
           "snippets": [],
           "preview": "FAVICON",
           "coordinates": [],
-          "tabReferences": [],
+          "tabReferences": [
+            {
+              "id": "5f76d521-4dc9-4e53-ad27-9339c1a02cdb",
+              "type": "OPEN_GRAPH",
+              "title": "Open Graph",
+              "data": [],
+              "status": "NEW"
+            },
+            {
+              "id": "e8660c2a-8914-4d88-97c5-e10a0beb0bca",
+              "type": "META_DATA",
+              "title": "Meta Data",
+              "data": [
+                {
+                  "name": "author",
+                  "content": "Portainer.io"
+                }
+              ],
+              "status": "NEW"
+            }
+          ],
           "quickaccess": "",
           "log": [],
           "lastChangeBy": "",
@@ -1556,7 +1576,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 2425,
+      "size": 2646,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
@@ -1564,13 +1584,12 @@
         "readonly": true
       },
       "lastChange": {
-        "date": 1773137492393,
+        "date": 1774864689014,
         "changedBy": "",
-        "event": "tab-added",
-        "element": "tab",
-        "change": "added",
-        "elementId": "8da1f118-a427-4d82-a56c-e28d2d9f202f",
-        "tabsetId": "b0dcb86f-ba56-40e9-bd0d-3d2d55098b2c"
+        "event": "tabset-edited",
+        "element": "tabset",
+        "change": "edited",
+        "elementId": "b0dcb86f-ba56-40e9-bd0d-3d2d55098b2c"
       },
       "monitoredTabs": [],
       "newTabSource": false
