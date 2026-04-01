@@ -1445,7 +1445,7 @@
       "id": "b0dcb86f-ba56-40e9-bd0d-3d2d55098b2c",
       "name": "Cogita",
       "created": 1770112564479,
-      "updated": 1774978495429,
+      "updated": 1775037874825,
       "tabs": [
         {
           "created": 1774868228685,
@@ -1514,8 +1514,8 @@
         {
           "created": 1773137492387,
           "updated": 1773137492387,
-          "lastActive": 1774976843566,
-          "activatedCount": 9,
+          "lastActive": 1775037874825,
+          "activatedCount": 11,
           "chromeTabId": 1576842921,
           "favIconUrl": "https://portainer.cogita.tech/d35773788f0de379e3d2.png",
           "url": "https://portainer.cogita.tech/#!/auth",
@@ -1792,13 +1792,12 @@
       "monitoredTabs": [],
       "newTabSource": false,
       "lastChange": {
-        "date": 1774978495429,
+        "date": 1775037874825,
         "changedBy": "",
-        "event": "tab-edited",
-        "element": "tab",
+        "event": "tabset-edited",
+        "element": "tabset",
         "change": "edited",
-        "elementId": "9a92cff5-02e2-4178-8c79-60f2006120ea",
-        "tabsetId": "https://nextcloud.cogita.tech/"
+        "elementId": "b0dcb86f-ba56-40e9-bd0d-3d2d55098b2c"
       }
     },
     {
