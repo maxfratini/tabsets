@@ -1454,7 +1454,7 @@
       "id": "65a6b05b-dda3-42ee-96ab-5244e6af111c",
       "name": "SportTV",
       "created": 1778431668768,
-      "updated": 1779020005159,
+      "updated": 1779025617479,
       "tabs": [
         {
           "created": 1778443715458,
@@ -1555,8 +1555,8 @@
         {
           "created": 1778431674669,
           "updated": 1778431674669,
-          "lastActive": 1779020005159,
-          "activatedCount": 27,
+          "lastActive": 1779025617479,
+          "activatedCount": 28,
           "chromeTabId": 1576845885,
           "favIconUrl": "http://www.rojadirecta.eu/static/favicon.ico",
           "url": "http://www.rojadirecta.eu/",
@@ -1641,7 +1641,7 @@
         "readonly": true
       },
       "lastChange": {
-        "date": 1779020005159,
+        "date": 1779025617479,
         "changedBy": "",
         "event": "tabset-edited",
         "element": "tabset",
