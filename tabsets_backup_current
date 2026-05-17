@@ -4,8 +4,55 @@
       "id": "0d7eecc2-47f4-4915-b048-fe694fdcced8",
       "name": "AI",
       "created": 1764416681478,
-      "updated": 1775920414519,
+      "updated": 1778658387857,
       "tabs": [
+        {
+          "created": 1778658387850,
+          "updated": 1778658387850,
+          "lastActive": 1778658387850,
+          "activatedCount": 1,
+          "chromeTabId": 1576845573,
+          "favIconUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%233B82F6'/%3E%3Cstop offset='50%25' stop-color='%23A855F7'/%3E%3Cstop offset='100%25' stop-color='%23EC4899'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ctext x='2' y='26' font-family='system-ui' font-weight='700' font-size='26' fill='url(%23g)'%3EW%3C/text%3E%3C/svg%3E",
+          "url": "https://tryweave.io/docs/",
+          "title": "Weave Docs",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "description": "",
+          "keywords": "",
+          "tags": [
+            "tryweave.io"
+          ],
+          "image": "",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 0,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "3a7938e3-6e0a-4411-a6c5-e9e134ad79cd"
+        },
         {
           "created": 1775920414516,
           "updated": 1775920414516,
@@ -631,7 +678,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 13530,
+      "size": 14807,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
@@ -639,12 +686,12 @@
         "readonly": true
       },
       "lastChange": {
-        "date": 1775920414519,
+        "date": 1778658387857,
         "changedBy": "",
         "event": "tab-added",
         "element": "tab",
         "change": "added",
-        "elementId": "a412f5f1-cf0e-415a-8b24-3230feeddba8",
+        "elementId": "3a7938e3-6e0a-4411-a6c5-e9e134ad79cd",
         "tabsetId": "0d7eecc2-47f4-4915-b048-fe694fdcced8"
       },
       "monitoredTabs": [],
@@ -1404,6 +1451,207 @@
       "newTabSource": false
     },
     {
+      "id": "65a6b05b-dda3-42ee-96ab-5244e6af111c",
+      "name": "SportTV",
+      "created": 1778431668768,
+      "updated": 1779016998156,
+      "tabs": [
+        {
+          "created": 1778443715458,
+          "updated": 1778443715458,
+          "lastActive": 1779014311887,
+          "activatedCount": 6,
+          "chromeTabId": 1576845964,
+          "favIconUrl": "https://rojadirectaplay.com/img/logo-futbol-libre.png",
+          "url": "https://rojadirectaplay.com/",
+          "title": "Roja Directa TV | Fútbol en vivo y canales deportivos en HD",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "description": "",
+          "keywords": "",
+          "tags": [
+            "rojadirectaplay.com"
+          ],
+          "image": "",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [
+            {
+              "id": "a349648e-fafa-48e0-b9bd-6bcfad2b4ccb",
+              "type": "OPEN_GRAPH",
+              "title": "Open Graph",
+              "data": [
+                {
+                  "property": "og:locale",
+                  "content": "es_PE"
+                },
+                {
+                  "property": "og:type",
+                  "content": "website"
+                },
+                {
+                  "property": "og:title",
+                  "content": "Roja Directa TV | Fútbol en vivo y canales deportivos en HD"
+                },
+                {
+                  "property": "og:description",
+                  "content": "RojaDirecta TV HD para ver fútbol en vivo de Ecuador, Perú, Argentina, México, Colombia, Chile, España, Estados Unidos y Portugal, con agenda online."
+                },
+                {
+                  "property": "og:url",
+                  "content": "https://rojadirectaplay.com/"
+                },
+                {
+                  "property": "og:site_name",
+                  "content": "Roja Directa TV | Fútbol en vivo y canales deportivos en HD"
+                },
+                {
+                  "property": "og:image",
+                  "content": "https://rojadirectaplay.com/img/futbollibre.png"
+                }
+              ],
+              "status": "NEW"
+            },
+            {
+              "id": "818c036a-c53d-437d-974a-413c03d755a4",
+              "type": "META_DATA",
+              "title": "Meta Data",
+              "data": [
+                {
+                  "name": "description",
+                  "content": "RojaDirecta TV HD para ver fútbol en vivo de Ecuador, Perú, Argentina, México, Colombia, Chile, España, Estados Unidos y Portugal, con agenda online."
+                }
+              ],
+              "status": "NEW"
+            }
+          ],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 0,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "17a5eaf7-e0e9-4d50-96bf-5ede6a221a02"
+        },
+        {
+          "created": 1778431674669,
+          "updated": 1778431674669,
+          "lastActive": 1779016998156,
+          "activatedCount": 26,
+          "chromeTabId": 1576845885,
+          "favIconUrl": "http://www.rojadirecta.eu/static/favicon.ico",
+          "url": "http://www.rojadirecta.eu/",
+          "title": "ROJADIRECTA",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "description": "",
+          "keywords": "",
+          "tags": [
+            "rojadirecta.eu"
+          ],
+          "image": "",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [
+            {
+              "id": "c4d8d43d-b719-4b85-bb4b-d10fe77faf13",
+              "type": "OPEN_GRAPH",
+              "title": "Open Graph",
+              "data": [],
+              "status": "NEW"
+            },
+            {
+              "id": "53aaa998-a19d-4b75-b06d-3b8316f171a7",
+              "type": "META_DATA",
+              "title": "Meta Data",
+              "data": [
+                {
+                  "name": "description",
+                  "content": "Rojadirecta. World's biggest sport streams index (El mayor índice de emisiones deportivas por Internet)."
+                }
+              ],
+              "status": "NEW"
+            }
+          ],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 64177,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "7d30abf9-7835-4014-8bc1-a166bcff2afc"
+        }
+      ],
+      "folders": [],
+      "columns": [],
+      "spaces": [],
+      "view": "grid",
+      "details": "DEFAULT",
+      "sorting": "custom",
+      "status": "DEFAULT",
+      "type": "DEFAULT",
+      "sharing": {
+        "sharing": "UNSHARED"
+      },
+      "window": "current",
+      "origin": "",
+      "size": 2395,
+      "loaded": 0,
+      "lastChangeBy": "",
+      "augmentedData": {
+        "sharedAt": 0,
+        "readonly": true
+      },
+      "lastChange": {
+        "date": 1779016998156,
+        "changedBy": "",
+        "event": "tabset-edited",
+        "element": "tabset",
+        "change": "edited",
+        "elementId": "65a6b05b-dda3-42ee-96ab-5244e6af111c"
+      },
+      "monitoredTabs": [],
+      "newTabSource": false
+    },
+    {
       "id": "6a2b174c-b57c-4820-a658-136db46db7c6",
       "name": "IBM",
       "created": 1763664333459,
@@ -1977,138 +2225,6 @@
         "change": "added",
         "elementId": "10efde5c-949b-4859-9fb2-e71286af6fdb",
         "tabsetId": "dc8ff665-58b6-4542-b3db-119532fcc2d4"
-      },
-      "monitoredTabs": [],
-      "newTabSource": false
-    },
-    {
-      "id": "65a6b05b-dda3-42ee-96ab-5244e6af111c",
-      "name": "SportTV",
-      "created": 1778431668768,
-      "updated": 1778441615506,
-      "tabs": [
-        {
-          "created": 1778431674669,
-          "updated": 1778431674669,
-          "lastActive": 1778441615506,
-          "activatedCount": 8,
-          "chromeTabId": 1576845472,
-          "favIconUrl": "http://www.rojadirecta.eu/static/favicon.ico",
-          "url": "http://www.rojadirecta.eu/",
-          "title": "ROJADIRECTA",
-          "pinned": false,
-          "groupId": -1,
-          "pinnedInList": false,
-          "history": [],
-          "description": "",
-          "keywords": "",
-          "tags": [
-            "rojadirecta.eu"
-          ],
-          "image": "",
-          "date": "",
-          "lastModified": "",
-          "author": "",
-          "note": "",
-          "extension": "HTML",
-          "favorite": "NONE",
-          "contentHash": "",
-          "httpStatus": 200,
-          "httpContentType": "undefined",
-          "httpLastModified": "undefined",
-          "httpCheckedAt": 0,
-          "httpExpires": "",
-          "httpEtag": "",
-          "httpError": "",
-          "httpInfo": "undefined",
-          "comments": [],
-          "snippets": [],
-          "preview": "FAVICON",
-          "coordinates": [],
-          "tabReferences": [],
-          "quickaccess": "",
-          "log": [],
-          "lastChangeBy": "",
-          "readingTime": 11670,
-          "useInIframe": true,
-          "details": "DEFAULT",
-          "id": "7d30abf9-7835-4014-8bc1-a166bcff2afc"
-        },
-        {
-          "created": 1778431671495,
-          "updated": 1778431671495,
-          "lastActive": 1778432841091,
-          "activatedCount": 3,
-          "chromeTabId": 1576845514,
-          "favIconUrl": "https://rojadirectaplay.com/img/logo-futbol-libre.png",
-          "url": "https://rojadirectaplay.com/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=",
-          "title": "Roja Directa",
-          "pinned": false,
-          "groupId": -1,
-          "pinnedInList": false,
-          "history": [],
-          "description": "",
-          "keywords": "",
-          "tags": [
-            "rojadirectaplay.com"
-          ],
-          "image": "",
-          "date": "",
-          "lastModified": "",
-          "author": "",
-          "note": "",
-          "extension": "HTML",
-          "favorite": "NONE",
-          "contentHash": "",
-          "httpStatus": 200,
-          "httpContentType": "undefined",
-          "httpLastModified": "undefined",
-          "httpCheckedAt": 0,
-          "httpExpires": "",
-          "httpEtag": "",
-          "httpError": "",
-          "httpInfo": "undefined",
-          "comments": [],
-          "snippets": [],
-          "preview": "FAVICON",
-          "coordinates": [],
-          "tabReferences": [],
-          "quickaccess": "",
-          "log": [],
-          "lastChangeBy": "",
-          "readingTime": 4150,
-          "useInIframe": true,
-          "details": "DEFAULT",
-          "id": "332ff40d-1e49-4a40-a197-bbad53be470b"
-        }
-      ],
-      "folders": [],
-      "columns": [],
-      "spaces": [],
-      "view": "grid",
-      "details": "DEFAULT",
-      "sorting": "custom",
-      "status": "DEFAULT",
-      "type": "DEFAULT",
-      "sharing": {
-        "sharing": "UNSHARED"
-      },
-      "window": "current",
-      "origin": "",
-      "size": 0,
-      "loaded": 0,
-      "lastChangeBy": "",
-      "augmentedData": {
-        "sharedAt": 0,
-        "readonly": true
-      },
-      "lastChange": {
-        "date": 1778441615506,
-        "changedBy": "",
-        "event": "tabset-edited",
-        "element": "tabset",
-        "change": "edited",
-        "elementId": "65a6b05b-dda3-42ee-96ab-5244e6af111c"
       },
       "monitoredTabs": [],
       "newTabSource": false
