@@ -4,8 +4,92 @@
       "id": "0d7eecc2-47f4-4915-b048-fe694fdcced8",
       "name": "AI",
       "created": 1764416681478,
-      "updated": 1778658387857,
+      "updated": 1779292209178,
       "tabs": [
+        {
+          "created": 1779292209140,
+          "updated": 1779292209140,
+          "lastActive": 1779292209140,
+          "activatedCount": 1,
+          "chromeTabId": 1576846984,
+          "favIconUrl": "https://static.gamma.app/favicons/favicon_light.svg",
+          "url": "https://gamma.app/?gad_campaignid=23865431485&gad_source=1&gbraid=0AAAABCzLgAknt_wdaTz7Q1vqavGDUSqHm&gspk=ODZhZGMzMTQ1ZGM3&gsxid=rQcgdUtcTyODTk&ps_partner_key=ODZhZGMzMTQ1ZGM3&ps_xid=rQcgdUtcTyODTk&pscd=try.gamma.app&utm_content=86adc3145dc7&utm_medium=affiliate&utm_source=ps",
+          "title": "Gamma",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "description": "Design stunning presentations, websites, and more with Gamma—your all-in-one AI-powered design partner. No code or design experience needed.",
+          "keywords": "",
+          "tags": [
+            "gamma.app"
+          ],
+          "image": "https://static.gamma.app/images/gamma-banner-8d71c455.png",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [
+            {
+              "id": "a18c0dfe-6244-44bf-99ef-4ff725700bd7",
+              "type": "OPEN_GRAPH",
+              "title": "Open Graph",
+              "data": [
+                {
+                  "property": "og:title",
+                  "content": "Gamma"
+                },
+                {
+                  "property": "og:description",
+                  "content": "Design stunning presentations, websites, and more with Gamma—your all-in-one AI-powered design partner. No code or design experience needed."
+                },
+                {
+                  "property": "og:image",
+                  "content": "https://static.gamma.app/images/gamma-banner-8d71c455.png"
+                },
+                {
+                  "property": "og:type",
+                  "content": "website"
+                }
+              ],
+              "status": "NEW"
+            },
+            {
+              "id": "73d25f94-dc7e-4e5e-ba2d-6da9c5adbdaf",
+              "type": "META_DATA",
+              "title": "Meta Data",
+              "data": [
+                {
+                  "name": "description",
+                  "content": "Design stunning presentations, websites, and more with Gamma—your all-in-one AI-powered design partner. No code or design experience needed."
+                }
+              ],
+              "status": "NEW"
+            }
+          ],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 0,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "6d07d838-37a9-4534-86dc-11e43debd0db"
+        },
         {
           "created": 1778658387850,
           "updated": 1778658387850,
@@ -686,12 +770,12 @@
         "readonly": true
       },
       "lastChange": {
-        "date": 1778658387857,
+        "date": 1779292209178,
         "changedBy": "",
         "event": "tab-added",
         "element": "tab",
         "change": "added",
-        "elementId": "3a7938e3-6e0a-4411-a6c5-e9e134ad79cd",
+        "elementId": "6d07d838-37a9-4534-86dc-11e43debd0db",
         "tabsetId": "0d7eecc2-47f4-4915-b048-fe694fdcced8"
       },
       "monitoredTabs": [],
@@ -1633,7 +1717,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 2395,
+      "size": 3783,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
