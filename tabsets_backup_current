@@ -912,7 +912,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 18866,
+      "size": 18677,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
@@ -927,7 +927,7 @@
       "id": "0d7eecc2-47f4-4915-b048-fe694fdcced8",
       "name": "AI",
       "created": 1764416681478,
-      "updated": 1781254671214,
+      "updated": 1784798164742,
       "tabs": [
         {
           "created": 1781253689092,
@@ -1627,8 +1627,8 @@
         {
           "created": 1775727127561,
           "updated": 1775727127561,
-          "lastActive": 1775727127561,
-          "activatedCount": 1,
+          "lastActive": 1784797766511,
+          "activatedCount": 2,
           "chromeTabId": 1576843467,
           "favIconUrl": "https://openrouter.ai/favicon.ico",
           "url": "https://openrouter.ai/workspaces/default/keys",
@@ -1662,7 +1662,90 @@
           "snippets": [],
           "preview": "FAVICON",
           "coordinates": [],
-          "tabReferences": [],
+          "tabReferences": [
+            {
+              "id": "31562671-bfd5-4311-bb40-fe55d7d4b8e5",
+              "type": "OPEN_GRAPH",
+              "title": "Open Graph",
+              "data": [
+                {
+                  "property": "og:title",
+                  "content": "API Keys | Settings | OpenRouter"
+                },
+                {
+                  "property": "og:description",
+                  "content": "A router for LLMs and other AI models"
+                },
+                {
+                  "property": "og:url",
+                  "content": "https://openrouter.ai"
+                },
+                {
+                  "property": "og:site_name",
+                  "content": "OpenRouter"
+                },
+                {
+                  "property": "og:image",
+                  "content": "https://openrouter.ai/dynamic-og?title=API+Keys+%7C+Settings&description=A+router+for+LLMs+and+other+AI+models"
+                }
+              ],
+              "status": "NEW"
+            },
+            {
+              "id": "47d68a48-68e6-4453-9714-87e9353e80d3",
+              "type": "META_DATA",
+              "title": "Meta Data",
+              "data": [
+                {
+                  "name": "description",
+                  "content": "A router for LLMs and other AI models"
+                }
+              ],
+              "status": "NEW"
+            },
+            {
+              "id": "d866a79e-f87a-41af-9948-895f3c549909",
+              "type": "LINKING_DATA",
+              "title": "Linking Data",
+              "data": {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "@id": "https://openrouter.ai/#organization",
+                "name": "OpenRouter",
+                "url": "https://openrouter.ai",
+                "logo": "https://openrouter.ai/brand/v2/openrouter-glyph-light.svg",
+                "sameAs": [
+                  "https://x.com/openrouter",
+                  "https://github.com/OpenRouterTeam"
+                ]
+              },
+              "status": "NEW"
+            },
+            {
+              "id": "0d7b37d3-aac4-4e80-87c0-ac9aeeb684ae",
+              "type": "LINKING_DATA",
+              "title": "Linking Data",
+              "data": {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "@id": "https://openrouter.ai/#website",
+                "name": "OpenRouter",
+                "url": "https://openrouter.ai",
+                "publisher": {
+                  "@id": "https://openrouter.ai/#organization"
+                },
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://openrouter.ai/models?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              },
+              "status": "NEW"
+            }
+          ],
           "quickaccess": "",
           "log": [],
           "lastChangeBy": "",
@@ -1674,8 +1757,8 @@
         {
           "created": 1766843912930,
           "updated": 1766843912930,
-          "lastActive": 1780847164463,
-          "activatedCount": 2,
+          "lastActive": 1784798164742,
+          "activatedCount": 3,
           "chromeTabId": 1576849726,
           "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
           "url": "https://github.com/thepersonalaicompany/amurex",
@@ -2155,7 +2238,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 27104,
+      "size": 28708,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
@@ -2163,7 +2246,7 @@
         "readonly": true
       },
       "lastChange": {
-        "date": 1781254671214,
+        "date": 1784798164742,
         "changedBy": "",
         "event": "tabset-edited",
         "element": "tabset",
@@ -2930,14 +3013,14 @@
       "id": "65a6b05b-dda3-42ee-96ab-5244e6af111c",
       "name": "SportTV",
       "created": 1778431668768,
-      "updated": 1783090645234,
+      "updated": 1793130893953,
       "tabs": [
         {
           "created": 1778443715458,
           "updated": 1778443715458,
-          "lastActive": 1779554683578,
-          "activatedCount": 8,
-          "chromeTabId": 1576845964,
+          "lastActive": 1793130870559,
+          "activatedCount": 13,
+          "chromeTabId": 1576871164,
           "favIconUrl": "https://rojadirectaplay.com/img/logo-futbol-libre.png",
           "url": "https://rojadirectaplay.com/",
           "title": "Roja Directa TV | Fútbol en vivo y canales deportivos en HD",
@@ -3031,9 +3114,9 @@
         {
           "created": 1778431674669,
           "updated": 1778431674669,
-          "lastActive": 1783090645229,
-          "activatedCount": 47,
-          "chromeTabId": 1576850684,
+          "lastActive": 1793130893953,
+          "activatedCount": 53,
+          "chromeTabId": 1576871166,
           "favIconUrl": "http://www.rojadirecta.eu/static/favicon.ico",
           "url": "http://www.rojadirecta.eu/",
           "title": "ROJADIRECTA",
@@ -3068,14 +3151,14 @@
           "coordinates": [],
           "tabReferences": [
             {
-              "id": "002a6c70-0a99-43ef-af50-bb5bdeb2cddf",
+              "id": "d590165b-7da5-4420-aa78-8e61505b32ad",
               "type": "OPEN_GRAPH",
               "title": "Open Graph",
               "data": [],
               "status": "NEW"
             },
             {
-              "id": "cb89781a-8529-4476-8371-07d11b4f141e",
+              "id": "ee0a84eb-9373-44e4-a3a5-b54c72ac6664",
               "type": "META_DATA",
               "title": "Meta Data",
               "data": [
@@ -3090,7 +3173,7 @@
           "quickaccess": "",
           "log": [],
           "lastChangeBy": "",
-          "readingTime": 69976,
+          "readingTime": 85656,
           "useInIframe": true,
           "details": "DEFAULT",
           "id": "7d30abf9-7835-4014-8bc1-a166bcff2afc"
@@ -3109,7 +3192,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 3817,
+      "size": 3784,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
@@ -3119,13 +3202,12 @@
       "monitoredTabs": [],
       "newTabSource": false,
       "lastChange": {
-        "date": 1783090645234,
+        "date": 1793130893953,
         "changedBy": "",
-        "event": "tab-edited",
-        "element": "tab",
+        "event": "tabset-edited",
+        "element": "tabset",
         "change": "edited",
-        "elementId": "7d30abf9-7835-4014-8bc1-a166bcff2afc",
-        "tabsetId": "http://www.rojadirecta.eu/"
+        "elementId": "65a6b05b-dda3-42ee-96ab-5244e6af111c"
       }
     },
     {
@@ -3264,8 +3346,102 @@
       "id": "72f39709-069d-4a76-96de-1d729fd056e6",
       "name": "ToReview",
       "created": 1780656341076,
-      "updated": 1783259869858,
+      "updated": 1784797765055,
       "tabs": [
+        {
+          "created": 1783422111519,
+          "updated": 1783422111519,
+          "lastActive": 1783422111519,
+          "activatedCount": 1,
+          "chromeTabId": 1576854604,
+          "favIconUrl": "https://tina.io/favicon/favicon.ico",
+          "url": "https://tina.io/docs",
+          "title": "Get Started and learn about TinaCMS",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "description": "",
+          "keywords": "",
+          "tags": [
+            "tina.io"
+          ],
+          "image": "",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 0,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "b2bb21ad-2122-4476-ab8a-bc0573bec4c9"
+        },
+        {
+          "created": 1783421930222,
+          "updated": 1783421930222,
+          "lastActive": 1783421930222,
+          "activatedCount": 1,
+          "chromeTabId": 1576854607,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "url": "https://github.com/plasmicapp/plasmic",
+          "title": "plasmicapp/plasmic: Visual builder for React. Build apps, websites, and content. Integrate with your codebase.",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "description": "",
+          "keywords": "",
+          "tags": [
+            "github.com"
+          ],
+          "image": "",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 0,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "30a3be76-b4db-4f4e-ae17-6a9be3fae364"
+        },
         {
           "created": 1783259819111,
           "updated": 1783259819111,
@@ -3454,7 +3630,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 3445,
+      "size": 6011,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
@@ -3463,15 +3639,7 @@
       },
       "monitoredTabs": [],
       "newTabSource": false,
-      "folderActive": "72f39709-069d-4a76-96de-1d729fd056e6",
-      "lastChange": {
-        "date": 1783259869858,
-        "changedBy": "",
-        "event": "tabset-edited",
-        "element": "tabset",
-        "change": "edited",
-        "elementId": "72f39709-069d-4a76-96de-1d729fd056e6"
-      }
+      "folderActive": "72f39709-069d-4a76-96de-1d729fd056e6"
     },
     {
       "id": "b0dcb86f-ba56-40e9-bd0d-3d2d55098b2c",
@@ -4032,8 +4200,55 @@
       "id": "f0a37034-03b4-4c3b-bd58-8d208fe459aa",
       "name": "AI - Letture",
       "created": 1781253699820,
-      "updated": 1781254671215,
+      "updated": 1785340310998,
       "tabs": [
+        {
+          "created": 1785340310989,
+          "updated": 1785340310989,
+          "lastActive": 1785340310989,
+          "activatedCount": 1,
+          "chromeTabId": 1576857384,
+          "favIconUrl": "https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19",
+          "url": "https://callmedanbo.medium.com/installing-ibm-aix-on-x86-systems-using-qemu-3462b1da1544",
+          "title": "Installing IBM AIX on x86 Systems Using QEMU | by Danang Priabada | Medium",
+          "pinned": false,
+          "groupId": -1,
+          "pinnedInList": false,
+          "history": [],
+          "description": "",
+          "keywords": "",
+          "tags": [
+            "callmedanbo.medium.com"
+          ],
+          "image": "",
+          "date": "",
+          "lastModified": "",
+          "author": "",
+          "note": "",
+          "extension": "HTML",
+          "favorite": "NONE",
+          "contentHash": "",
+          "httpStatus": 200,
+          "httpContentType": "undefined",
+          "httpLastModified": "undefined",
+          "httpCheckedAt": 0,
+          "httpExpires": "",
+          "httpEtag": "",
+          "httpError": "",
+          "httpInfo": "undefined",
+          "comments": [],
+          "snippets": [],
+          "preview": "FAVICON",
+          "coordinates": [],
+          "tabReferences": [],
+          "quickaccess": "",
+          "log": [],
+          "lastChangeBy": "",
+          "readingTime": 0,
+          "useInIframe": true,
+          "details": "DEFAULT",
+          "id": "8f3fd6c3-c08c-4fac-abcd-69493b4db915"
+        },
         {
           "created": 1781253701334,
           "updated": 1781253701334,
@@ -4095,7 +4310,7 @@
       },
       "window": "current",
       "origin": "",
-      "size": 1663,
+      "size": 2752,
       "loaded": 0,
       "lastChangeBy": "",
       "augmentedData": {
@@ -4103,12 +4318,13 @@
         "readonly": true
       },
       "lastChange": {
-        "date": 1781254671215,
+        "date": 1785340310998,
         "changedBy": "",
-        "event": "tabset-edited",
-        "element": "tabset",
-        "change": "edited",
-        "elementId": "f0a37034-03b4-4c3b-bd58-8d208fe459aa"
+        "event": "tab-added",
+        "element": "tab",
+        "change": "added",
+        "elementId": "8f3fd6c3-c08c-4fac-abcd-69493b4db915",
+        "tabsetId": "f0a37034-03b4-4c3b-bd58-8d208fe459aa"
       },
       "monitoredTabs": [],
       "newTabSource": false
